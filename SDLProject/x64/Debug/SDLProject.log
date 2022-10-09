@@ -1,0 +1,5 @@
+﻿  Actor.cpp
+  main.cpp
+C:\5semestr\gry2D\SDLProject\SDLProject\SDLProject\main.cpp(140,22): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  SDLProject.vcxproj -> C:\5semestr\gry2D\SDLProject\SDLProject\x64\Debug\SDLProject.exe
